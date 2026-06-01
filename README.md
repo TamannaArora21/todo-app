@@ -1,7 +1,7 @@
 # React To-Do List App
 
 A simple To-Do List application built using React and Vite.
-
+## Project Setup
 ## Features
 
 - Add Tasks
