@@ -1,7 +1,6 @@
+## React To-Do List App
+# Project Setup
 # React To-Do List App
-
-A simple To-Do List application built using React and Vite.
-## Project Setup
 A simple To-Do List application built using React and Vite.
 ## Features
 
@@ -15,3 +14,5 @@ A simple To-Do List application built using React and Vite.
 npm install
 
 npm run dev
+**#Project Description**
+This project is a React-based To-Do List application developed as part of the Module 3 assignment.
