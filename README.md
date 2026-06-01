@@ -2,6 +2,7 @@
 
 A simple To-Do List application built using React and Vite.
 ## Project Setup
+A simple To-Do List application built using React and Vite.
 ## Features
 
 - Add Tasks
